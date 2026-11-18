@@ -69,6 +69,8 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 
 # Program: Sawtooth wave
+<img width="429" height="434" alt="image" src="https://github.com/user-attachments/assets/77ac115a-e73b-4eeb-a628-38ea18e27b2d" />
+
 
 ## Assembly Program
 
@@ -83,6 +85,7 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 ---
 
 ## Tabulation
+<img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/b588cd93-c4e7-49e8-97de-af5db43eda5e" />
 
 
 
